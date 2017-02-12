@@ -12,6 +12,7 @@
 		5E40E3741E50D67B0012084C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E40E3721E50D67B0012084C /* Main.storyboard */; };
 		5E40E3761E50D67B0012084C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E40E3751E50D67B0012084C /* Assets.xcassets */; };
 		5E40E3791E50D67B0012084C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E40E3771E50D67B0012084C /* LaunchScreen.storyboard */; };
+		5E40E3811E50D91E0012084C /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 5E40E3801E50D91E0012084C /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5E40E3751E50D67B0012084C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E40E3781E50D67B0012084C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E40E37A1E50D67B0012084C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E40E3801E50D91E0012084C /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				5E40E3701E50D67B0012084C /* ViewController.swift */,
 				5E40E3721E50D67B0012084C /* Main.storyboard */,
 				5E40E3751E50D67B0012084C /* Assets.xcassets */,
+				5E40E3801E50D91E0012084C /* pokemon.csv */,
 				5E40E3771E50D67B0012084C /* LaunchScreen.storyboard */,
 				5E40E37A1E50D67B0012084C /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				5E40E3791E50D67B0012084C /* LaunchScreen.storyboard in Resources */,
 				5E40E3761E50D67B0012084C /* Assets.xcassets in Resources */,
+				5E40E3811E50D91E0012084C /* pokemon.csv in Resources */,
 				5E40E3741E50D67B0012084C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
